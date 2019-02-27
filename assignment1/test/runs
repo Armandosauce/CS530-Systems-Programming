@@ -1,0 +1,3 @@
+./prog1_1 hello > prog1_1.output
+./prog1_3 hello > prog1_2.output
+./prog1_3 hello .shstrtab > prog1_3.output
